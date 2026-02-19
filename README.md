@@ -1,24 +1,24 @@
-#🚀 Landing Page – Producto Tecnológico
+# 🚀 Landing Page – Producto Tecnológico
 
 Proyecto académico para el desarrollo de una Landing Page de un producto tecnológico (gadget, aplicación o servicio digital), aplicando la metodología Git Flow para trabajo colaborativo y finalizando con despliegue en GitHub Pages.
 
-#📌 Descripción del Proyecto
+# 📌 Descripción del Proyecto
 
 Esta Landing Page presenta un producto tecnológico innovador, destacando:
 
-#🎯 Propuesta de valor
+# 🎯 Propuesta de valor
 
-#✨ Características principales
+# ✨ Características principales
 
-#📱 Capturas o demostración visual
+# 📱 Capturas o demostración visual
 
-#💰 Planes o precios
+# 💰 Planes o precios
 
-#📩 Llamado a la acción (CTA)
+# 📩 Llamado a la acción (CTA)
 
 El objetivo es aplicar buenas prácticas de desarrollo web y control de versiones profesional.
 
-🛠 Tecnologías Utilizadas
+# 🛠 Tecnologías Utilizadas
 
 HTML5
 
@@ -32,17 +32,17 @@ GitHub
 
 GitHub Pages
 
-#🌿 Metodología de Trabajo – Git Flow
+# 🌿 Metodología de Trabajo – Git Flow
 
 Se implementa la estrategia Git Flow, separando el desarrollo en ramas organizadas:
 
-#🔵 Estructura de Ramas
+# 🔵 Estructura de Ramas
 main        → Producción
 develop     → Integración
 feature/*   → Nuevas funcionalidades
 hotfix/*    → Correcciones urgentes
 
-#👥 Trabajo Colaborativo por Ramas Independientes
+# 👥 Trabajo Colaborativo por Ramas Independientes
 
 Cada integrante del equipo:
 
@@ -59,7 +59,7 @@ Ejemplo:
 git checkout develop
 git checkout -b feature/seccion-beneficios
 
-#🔄 Integración Controlada en develop
+# 🔄 Integración Controlada en develop
 
 Todas las funcionalidades terminadas se integran primero en develop.
 
@@ -71,7 +71,7 @@ Flujo:
 
 feature → develop
 
-#🚀 Paso Formal a Producción en main
+# 🚀 Paso Formal a Producción en main
 
 Cuando el proyecto está validado:
 
@@ -87,7 +87,7 @@ Flujo:
 
 develop → main
 
-#📂 Estructura del Proyecto
+# 📂 Estructura del Proyecto
 📁 proyecto-landing
  ├── index.html
  ├── css/
